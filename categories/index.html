@@ -1,0 +1,17 @@
+---
+layout: post
+title: Categories
+---
+{% capture categories %}
+  {% for category in site.categories %}
+    {{ category[0] }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtags = categories | split:' ' | sort %}
+<ul class="alt">
+{% for category in sortedtags %}
+	{% if category != "categories" %}
+    <li><a href="/categories/{{ category }}/" class="button small">{{ category }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
