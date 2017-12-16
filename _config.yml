@@ -25,7 +25,8 @@ tiles-source: posts
 
 # Build settings
 markdown: kramdown
-theme: forty_jekyll_theme
+# theme: forty_jekyll_theme
+remote_theme: andrewbanchich/Forty-Jekyll-Theme
 plugins:
   - jekyll-feed
 # paginate: 5
