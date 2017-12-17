@@ -2,7 +2,7 @@
 layout: post
 title: Intergas Kombi Kompakt HRE 24/18 and Honeywell T87RF2025
 description: Finding a replacement for my Honeywell thermostat. Can I do it myself?
-image: 
+image: assets/img/RPI/thermostat_RT87RF2025.jpg
 category: hardware
 tags: RPI thermostat
 ---
