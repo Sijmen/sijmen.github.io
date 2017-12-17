@@ -4,7 +4,7 @@ title: Intergas Kombi Kompakt HRE 24/18 and Honeywell T87RF2025
 description: Finding a replacement for my Honeywell thermostat. Can I do it myself?
 image: assets/img/RPI/thermostat_RT87RF2025.jpg
 category: hardware
-tags: RPI thermostat
+tags: rpi thermostat
 ---
 The aim of this research is to find out it is possible to replace or enhance my [current wireless thermostat][honeywell-T87RF2025]{:target="_blank"}
 . I know it works with RF and the heater has a build-in RF receiver. Probably they speak OpenTherm, however I'm not sure how its encoded over the RF signal. That seems to be the main problem for directly connecting to the heater. 
