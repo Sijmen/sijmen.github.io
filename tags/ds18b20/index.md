@@ -1,4 +1,4 @@
 ---
 layout: tagpage
-tag: DS18B20
+tag: ds18b20
 ---
